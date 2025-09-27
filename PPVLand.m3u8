@@ -59,11 +59,6 @@ https://gg.poocloud.in/NBC/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95ce22a90b360141c2617e8e505fb904-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",BYU Cougars vs. Colorado Buffaloes
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Minnesota Vikings vs. Pittsburgh Steelers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -228,7 +223,7 @@ https://gg.poocloud.in/epl_brentford/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/laliga_getafe-cf/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8b3b9d55eab5f812ee88febb4f86271a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Como vs. Cremonese
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -238,17 +233,17 @@ https://gg.poocloud.in/seriea_como/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/bundesliga_heidenheim/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_heidenheim/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0fae23a5aea3e5e24acfed6a522baf79-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Mainz vs. Dortmund
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/bundesliga_mainz/index.m3u8
+https://gg.poocloud.in/bundesliga_mainz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4c266e22c9e87962db5445123c40213f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",St. Pauli vs. Leverkusen
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/bundesliga_st.-pauli/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_st.-pauli/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3a95cbfa8c2c5882d8f16ec7c62d089e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolfsburg vs. RB Leipzig
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -278,7 +273,7 @@ https://gg.poocloud.in/epl_leeds/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/epl_man-city/index.m3u8
+https://gg.poocloud.in/epl_man-city/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/85414c0d02c2728f9236db73843a1070-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atlético de Madrid vs. Real Madrid
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -289,21 +284,16 @@ https://gg.poocloud.in/laliga_atletico-de-madrid/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/ligue1_fc-lorient/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2aa5ba894322c9b55bd21e6cd0ee5361-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Juventus vs. Atalanta
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/seriea_juventus/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/55b886a906b128147ee9bc3089a9c69f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Nottingham Forest vs. Sunderland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/epl_nottm-forest/index.m3u8
+https://gg.poocloud.in/epl_nottm-forest/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d860a87db6c4c615d1c5edc403da7c04-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Gladbach vs. Frankfurt
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/bundesliga_gladbach/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_gladbach/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7f50eced822bb7e0c57e661e4c1dfaa4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RCD Mallorca vs. Deportivo Alavés
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -319,11 +309,16 @@ https://gg.poocloud.in/ligue1_toulouse-fc/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/seriea_cagliari/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e13c77c251cac90bf25f6578dccda2d3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham Hotspur vs. Wolverhampton Wanderers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/epl_spurs/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b1bc8d337602687409a3c1e1d54b8e9-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Villarreal CF vs. Athletic Club
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/laliga_villarreal-cf/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/laliga_villarreal-cf/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cd381e042243b9342374bbc0941205e7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",PSG vs. AJ Auxerre
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -404,6 +399,11 @@ https://gg.poocloud.in/seriea_lecce/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/laliga_fc-barcelona/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/446d88dae88236cda059a7d5c7648647-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Union Berlin vs. Hamburg
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/bundesliga_union-berlin/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/20d20f25818effdef0df1c7fe425f8f0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rennes vs. RC Lens
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
