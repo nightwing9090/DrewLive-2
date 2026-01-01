@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dfbf17cdb138c7fc756c6102bc66b249-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Nebraska Cornhuskers vs. Utah Utes
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/59d498f7b30490eaf5ed7c303802a2a8-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Miami Hurricanes vs. Ohio State Buckeyes
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -63,7 +58,7 @@ https://gg.poocloud.in/buffalobills/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/lasvegasraiders/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Illinois State Redbirds vs. Montana State Bobcats
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -73,7 +68,7 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/chicagobulls/index.m3u8
+https://gg.poocloud.in/chicagobulls/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/aca3ab993045d3dd9bd04ce67913c455-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. San Antonio Spurs
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -93,27 +88,27 @@ https://gg.poocloud.in/milwaukeebucks/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/oklahomacitythunder/index.m3u8
+https://gg.poocloud.in/oklahomacitythunder/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
